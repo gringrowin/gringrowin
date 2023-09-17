@@ -1,4 +1,4 @@
-Hi, I am Pavlishin Maxim(@gringrowin) this is my public repositories.
+Hi, I am Maxim Pavlishin(@gringrowin) this is my public repositories.
 
 <!---
 gringrowin/gringrowin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
